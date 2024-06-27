@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prasd Gaikwad
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full Stack Python
+- 🌱 I’m currently learning Web Devlopment
 
 
 <!---
